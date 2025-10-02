@@ -1,0 +1,14 @@
+# Archivo de requerimientos para el proyecto TTS MVC
+# Versión de Python esperada: 3.12+
+
+# Librerías principales
+tkinterdnd2==0.3.0  # Para la funcionalidad de arrastrar y soltar archivos
+edge-tts==6.1.9    # Motor principal para la síntesis de voz
+PyPDF2==3.0.1      # Para leer archivos PDF
+python-pptx==0.6.23 # Para leer archivos PowerPoint (.pptx)
+pydub==0.25.1      # Utilizada en Windows para manipular el subproceso (ocultar consola de FFmpeg)
+
+# Nota:
+# La librería 'tkinter' generalmente viene incluida con la instalación estándar de Python.
+# Este proyecto también requiere la dependencia externa FFmpeg 8.0 o superior
+# para la manipulación de audio.

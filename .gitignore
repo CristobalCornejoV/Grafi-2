@@ -1,0 +1,11 @@
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+venv/
+env/
+.DS_Store
+*.swp
