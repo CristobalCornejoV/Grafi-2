@@ -1,4 +1,6 @@
-# Conversor de Texto a Audio MP3 (Edge TTS)
+# Conversor de Texto a Audio MP3 (Edge TTS) "GRAFI 2"
+
+creado por: Cristóbal Cornejo V.
 
 El presente proyecto es una aplicación de escritorio desarrollada en Python, diseñada para la conversión eficiente de documentos de texto (TXT, PDF, PPTX) a archivos de audio MP3 de alta fidelidad, utilizando la tecnología de síntesis de voz **Edge TTS (Microsoft Azure)**. La arquitectura del software se ha implementado rigurosamente bajo el patrón **Modelo-Vista-Controlador (MVC)**, garantizando una clara separación de responsabilidades y facilitando su mantenimiento y escalabilidad.
 
